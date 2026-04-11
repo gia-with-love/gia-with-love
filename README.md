@@ -1,13 +1,11 @@
 
   
-  # 👋 Hi there, I'm Gia!
-  
-  ### Bioinformatician | Computational Biologist
-  
-  I'm a bioinformatician specialising in spatial omics analysis. I'm passionate about developing reproducible analysis pipelines and uncovering cellular heterogeneity in complex biological systems.
-  
-  
-  📍 Based in Queensland, Australia
+### Hi, I'm Gia 👋
+
+I build spatial omics pipelines and agentic AI systems for cancer research.
+
+Computational biology · clinical medicine · public health
+Brisbane, Australia
 
 
 <!--
